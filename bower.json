@@ -1,6 +1,6 @@
 {
   "name": "angular-form-error",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/mcnilz/angular-form-error",
   "description": "a helper directive to add CSS classes to your markup depending on the validation state of the form and form fields",
   "main": "src/angular-form-error.js",
